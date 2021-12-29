@@ -15,7 +15,7 @@ I'm a **FrontEnd Engineer**, here are some ideas to get you started:
 
 <p align="left">
     <a href="https://github.com/jcmurciap">
-        <img src="https://img.shields.io/Github/follow/camilo?label=Github&style=social" alt="GitHub Camilo">
+        <img src="https://img.shields.io/github/follow/camilo?label=github&style=social" alt="GitHub Camilo">
     </a>
     <a href="https://twitter.com/jc_murcia">
         <img src="https://img.shields.io/twitter/follow/camilo?label=Twitter&style=social" alt="Twitter Camilo">
