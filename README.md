@@ -15,10 +15,10 @@ I'm a **FrontEnd Engineer**, here are some ideas to get you started:
 
 <p align="left">
     <a href="https://github.com/jcmurciap">
-        <img src="https://github.com/jcmurciap" alt="GitHub Camilo">
+        <img src="https://img.shields.io/twitter/follow/camilo?label=Twitter&style=social" alt="GitHub Camilo">
     </a>
     <a href="https://twitter.com/jc_murcia">
-        <img src="https://img.shields.io/twitter/follow/miguelortizdev?label=Twitter&style=social" alt="Twitter Camilo">
+        <img src="https://img.shields.io/twitter/follow/camilo?label=Twitter&style=social" alt="Twitter Camilo">
     </a>
     <a href="https://www.linkedin.com/in/juan-murcia-p-91b033208/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Camilo">
