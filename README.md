@@ -2,8 +2,8 @@
 
 I'm a **FrontEnd Engineer**, here are some ideas to get you started:
 
-- 🔭 &nbsp;I’m currently working on JavaScript, TypeScript, React, MaterialUI, Tailwind CSS.MERN Stack.
-- 🌱 &nbsp;I’m currently learning TypeScript and Next.js.
+- 🔭 &nbsp;I’m currently working on TypeScript, React, CSS+HTML, MERN Stack.
+- 🌱 &nbsp;I’m currently learning TypeScript and PHP.
 - 👯 &nbsp;I’m looking to collaborate on React.
 - 💬 &nbsp;Ask me about JavaScript.
 - 🎓 &nbsp;One of my biggest motivations is to learn.
